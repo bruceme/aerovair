@@ -4,7 +4,7 @@ A homebuilt aeroplane you can drive home
 
 # The mythical flying-car and the unobtanium affect 
 There have been many attempts at making a "flying car", [so many, it's not worth listing](http://lmgtfy.com/?q=flying+car).
-![flying car](https://en.wikipedia.org/wiki/Roadable_aircraft#/media/File:Jess_Dixon_in_his_flying_automobile.jpg)
+![flying car](https://upload.wikimedia.org/wikipedia/commons/6/63/Jess_Dixon_in_his_flying_automobile.jpg)
 
 If one does absolutely everything perfectly, you end up with some chitty-chitty-contraption that's a meagre air plane and a poor excuse for an auto mobile.  So, let's start there with the bar set __WAY__ _Way_ way low.  If you are still reading, it's because you are OK with sacrificing modern automotive convenience and the last 20% of an aircraft performance just so you can have one vehicle that is capable of parking in your garage, driving you to the nearest public airport so you can go flying.
 
