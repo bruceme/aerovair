@@ -11,7 +11,7 @@ If one does absolutely everything perfectly, you end up with some chitty-chitty-
 There are three current "way out there" concept vehicles in the popular media that have demonstrated some capability to fly and drive.  ___BUT___ ... you won't see them unless you have something over $500,000 USD handy _AND_ you're willing to wait 5+ years.  And with history as a guide, none of actually made it to any manufactured volume ever :(
 
 Hey, there is a proactive, do-it-yourself, alternative.  Build it!  Anyone can build/fly a homebuilt aircraft or build/drive a kit car right now, today.  So... what's stopping us?  It's a matter of practical engineering, tears sweet and yeah some blood.
-
+ 
 # Goals
 ## Initial
 * Can fly up to 900 miles at 150mph
