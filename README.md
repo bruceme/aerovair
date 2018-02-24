@@ -72,11 +72,13 @@ The wing design is critical to how it flies and how much you can't see when you 
 
 ### Here are some common hinging techniques;
 * __Straight vertical hing__ This is a very simple way to hing a wing and it's common for aircraft that want a simple way to become compact.  Unfortunately it typically hinges directly into the lateral line of sight of the pilot and would mean you can't see anyone to your left/right while driving. It's also very tall and acts as a top-heavy sale, which would interfere with driving.
-![Straight Hinge](images/RV4+Folding.jpg)
+![Straight Hinge](images/RV4%20Folding.jpg)
+
 * __Rotating aft hinging__ This is common in high wings where the strut acts as a brace.  It does fold well behind the pilot, giving unobstructed lateral visibility and it could be made to work well.  It is a strong contender.  The forces of transition are high (you must hold the tip while folding) but this is not a huge factor.  It is a bit more complicated and has more parts in the wing, it also works better with strut braced aircraft, not low-wings, but it can be made to work.
-![Rotating Wing](images/panther+folding.jpg)
+![Rotating Wing](images/panther%20folding.jpg)
+
 * __Stow-a-wing__ This was invented in the pre-WWII years by Grumman aircraft to compactly stow planes on an aircraft carrier.  It is a simple single-hinge system that simulations pivots longitudinally and laterally on one compound axis so the wing fits nicely against the empennage.  It has low parts, very low transition energy, a person or an actuator can exercise it.
-![StowAWing](images/stow+a+wing+3.jpg)
+![StowAWing](images/stow%20a%20wing%203.jpg)
 
 [View these pictures to see many more...](images)
 
@@ -91,6 +93,7 @@ The power plant includes gasoline engine, electric motor/generator, batteries, d
 
 ## Gasoline Engine
 The ideal engine is one designed around the requirements of an aircraft but robust and extensible.  There are many choices and one could make great arguments for many other engine choices.  But for this project the Corvair was chosen;
+
 ![Corvair](images/corvair.jpg)
 
 * Readily available and commonly converted, which means there's a large audience of very hands-on knowledgeable experts on the every aspect of this engine.
