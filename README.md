@@ -3,7 +3,10 @@ A homebuilt aeroplane you can drive home
 ![lego flying car](images/drivingairplanes.jpg)
 
 # The mythical flying-car and the unobtanium affect 
-There have been many attempts at making a "flying car", [so many, it's not worth listing](http://lmgtfy.com/?q=flying+car).  If one does absolutely everything perfectly, you end up with some chitty-chitty-contraption that's a meagre air plane and a poor excuse for an auto mobile.  So, let's start there with the bar set __WAY__ _Way_ way low.  If you are still reading, it's because you are OK with sacrificing modern automotive convenience and the last 20% of an aircraft performance just so you can have one vehicle that is capable of parking in your garage, driving you to the nearest public airport so you can go flying.
+There have been many attempts at making a "flying car", [so many, it's not worth listing](http://lmgtfy.com/?q=flying+car).
+![flying car](https://en.wikipedia.org/wiki/Roadable_aircraft#/media/File:Jess_Dixon_in_his_flying_automobile.jpg)
+
+If one does absolutely everything perfectly, you end up with some chitty-chitty-contraption that's a meagre air plane and a poor excuse for an auto mobile.  So, let's start there with the bar set __WAY__ _Way_ way low.  If you are still reading, it's because you are OK with sacrificing modern automotive convenience and the last 20% of an aircraft performance just so you can have one vehicle that is capable of parking in your garage, driving you to the nearest public airport so you can go flying.
 
 There are three current "way out there" concept vehicles in the popular media that have demonstrated some capability to fly and drive.  ___BUT___ ... you won't see them unless you have something over $500,000 USD handy _AND_ you're willing to wait 5+ years.  And with history as a guide, none of actually made it to any manufactured volume ever :(
 
@@ -69,8 +72,13 @@ The wing design is critical to how it flies and how much you can't see when you 
 
 ### Here are some common hinging techniques;
 * __Straight vertical hing__ This is a very simple way to hing a wing and it's common for aircraft that want a simple way to become compact.  Unfortunately it typically hinges directly into the lateral line of sight of the pilot and would mean you can't see anyone to your left/right while driving. It's also very tall and acts as a top-heavy sale, which would interfere with driving.
+![Straight Hinge](images/RV4+Folding.jpg)
 * __Rotating aft hinging__ This is common in high wings where the strut acts as a brace.  It does fold well behind the pilot, giving unobstructed lateral visibility and it could be made to work well.  It is a strong contender.  The forces of transition are high (you must hold the tip while folding) but this is not a huge factor.  It is a bit more complicated and has more parts in the wing, it also works better with strut braced aircraft, not low-wings, but it can be made to work.
+![Rotating Wing](images/panther+folding.jpg)
 * __Stow-a-wing__ This was invented in the pre-WWII years by Grumman aircraft to compactly stow planes on an aircraft carrier.  It is a simple single-hinge system that simulations pivots longitudinally and laterally on one compound axis so the wing fits nicely against the empennage.  It has low parts, very low transition energy, a person or an actuator can exercise it.
+![StowAWing](images/stow+a+wing+3.jpg)
+
+[View these pictures to see many more...](images)
 
 ### Conclusion
 For all these reasons, the Stow-a-wing system is superior.  The controls can stay connected, the pivot system is strong, simple and compact and the drive has maximum visibility. 
@@ -83,6 +91,7 @@ The power plant includes gasoline engine, electric motor/generator, batteries, d
 
 ## Gasoline Engine
 The ideal engine is one designed around the requirements of an aircraft but robust and extensible.  There are many choices and one could make great arguments for many other engine choices.  But for this project the Corvair was chosen;
+![Corvair](images/corvair.jpg)
 
 * Readily available and commonly converted, which means there's a large audience of very hands-on knowledgeable experts on the every aspect of this engine.
 * Simplistic engine layout, intake on top, exhaust on the bottom, cam is always bathed in oil.  I like all that.
