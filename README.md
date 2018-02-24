@@ -49,9 +49,9 @@ The choice of homebuilt airframes is arbitrary, but the initial airframe will be
 * The majority of the wing structure
 
 ## What is being altered...
-* [Engine will be a gasoline-electric hybrid] (#power-plant)
+* [Engine will be a gasoline-electric hybrid] (./#power-plant)
 * Landing gear - The stock engine-mount landing gear will be removed and converted to leaf-spring with linkage for steered main wheels.  The tail wheel will be fixed, large and driven by a modest electric motor.  This will give improved road stability landing/driving handling more like a Can-Am Spyder.  This should stability should lower the tricycle gear instability associated with ground-looping.
-* [Wing will be modified to support folding] (#the-wing-is-the-thing)
+* [Wing will be modified to support folding] (./#the-wing-is-the-thing)
 * Fuel system - The stock fuel tanks are too wide to fit in the typical road vehicle width, even with the wings hinged.  They will need to be shorted.  To compensate, a third small header tank will be added above the pilots feet and under the glare shield where the main tank is on the legacy RV-3.  You can not externally fill this tankas it will be fed by two low pressure fuel pumps from the either wing tanks. It will also serve to create a very reliable and low head pressure for the injection system.
 
 # The wing is the thing
