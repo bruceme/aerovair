@@ -78,7 +78,7 @@ The wing design is critical to how it flies and how much you can't see when you 
 ![Rotating Wing](images/panther%20folding.jpg)
 
 * __Stow-a-wing__ This was invented in the pre-WWII years by Grumman aircraft to compactly stow planes on an aircraft carrier.  It is a simple single-hinge system that simulations pivots longitudinally and laterally on one compound axis so the wing fits nicely against the empennage.  It has low parts, very low transition energy, a person or an actuator can exercise it.
-![StowAWing](images/stow%20a%20wing%203.jpg)
+![StowAWing](images/stowing.jpg)
 
 [View these pictures to see many more...](images)
 
