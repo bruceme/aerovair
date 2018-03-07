@@ -16,6 +16,7 @@ I can purchase the new skins from airparts inc for $900.
 
 So Far, here's what I've got;
 
+Description |Cost
 ------------|-----
 Wing/tail   | $1000 
 Fuse        | $1500
@@ -25,21 +26,20 @@ Carb        | $150
 
 What I will need (rought dollar estimate +/- 10%)
 
--------|-------------|-----
-Engine               |
-       | 5th Bearing | $1200
-       | Flang       | $200
-       | Mount       | $300
-       | Prop        | $1200
-       | Exhaust     | $700
-       | FAB         | $200
-       | Oil Cooler  | $200
-       | Oil Lines   | $150
-       | Turbo       | $800
-Fuse                 |
-       | Canopy      | $550
-       | Cowl (me)   | $200
-       | Instruments | Free (have them)
+Description |Cost
+------------|-----
+5th Bearing | $1200
+Flang       | $200
+Mount       | $300
+Prop        | $1200
+Exhaust     | $700
+FAB         | $200
+Oil Cooler  | $200
+Oil Lines   | $150
+Turbo       | $800
+Canopy      | $550
+Cowl (me)   | $200
+Instruments | Free (have them)
 
 
 # 3/3/2018 - Airframe
