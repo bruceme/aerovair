@@ -1,5 +1,8 @@
 # Aerovair
 A homebuilt aeroplane you can drive home
+
+[See my blog for progress...](Start.md)
+
 ![lego flying car](images/drivingairplanes.jpg)
 
 # The mythical flying-car and the unobtanium affect 
