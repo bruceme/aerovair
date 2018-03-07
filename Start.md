@@ -41,6 +41,9 @@ Canopy      | $550
 Cowl (me)   | $200
 Instruments | Free (have them)
 
+Total....  $9,700
+
+We'll see ;)
 
 # 3/3/2018 - Airframe
 
